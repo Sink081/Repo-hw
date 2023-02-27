@@ -12,3 +12,7 @@ function laCajaDePandora(numero) {
 
 	return numero.toString(16);
 }
+
+function emilianoVArela() {
+	return { nombre: "Emiliano", apellido: "Varela", nacionalidad: "Argentino" };
+}
