@@ -12,3 +12,7 @@ function Nito(){
      Nacionality: Argentinian;
     }
 }
+
+function suma (a,b){
+    return a + b 
+}
