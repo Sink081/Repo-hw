@@ -13,6 +13,3 @@ function Nito(){
     }
 }
 
-function suma (a,b){
-    return a + b 
-}
